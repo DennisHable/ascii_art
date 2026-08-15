@@ -1,8 +1,6 @@
-# Semestrální práce z BI-OOP
+# An older OOP project for creating ASCII art with filters.
 
-## ASCII Art
-
-Spuštění programu (např:):
+## Running a program (for example):
 
     run --image img2.jpg --output-console --output-file tree_ascii_art.txt
     run --image img2.jpg --rotate -90 --flip x --brightness -150 --invert --output-console
